@@ -1,0 +1,2 @@
+# plpgsqlSampleCode
+PL/pgSQLのサンプルコードをまとめたリポジトリです。
